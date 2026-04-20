@@ -122,3 +122,15 @@ ZZ_VENDOR_INV_ALV/
 ├── screenshots/
 │   ├── welcome-screen.png
 │   └── alv-output.png
+
+Future Improvements
+Drill-down to FB03
+Integration with F-53
+Layout save variants
+Export to Excel and PDF
+Fiori-based dashboard version
+Author
+
+Srideep Adak
+Roll Number: 23051631
+SAP ABAP / KIIT University
